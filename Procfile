@@ -1,1 +1,1 @@
-web: gunicorn app:flask_crystal.py
+web: gunicorn app:app
